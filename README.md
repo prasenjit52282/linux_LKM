@@ -1,6 +1,6 @@
 # LKM
 
-Developing loadable kernel module for a priority-queue inside the kernel space with proc and ioctl interface. In addition to this, the module need to handle concurrency, mutual exclusion, memory management, process management, and io-control.
+Loadable kernel module for a priority-queue inside the kernel space with proc and ioctl interface. In addition to this, the module handle concurrency, mutual exclusion, memory management, process management, and io-control.
 
 ## Directory Structure
 
